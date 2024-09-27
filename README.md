@@ -1,4 +1,4 @@
-# COPD Predictin Project
+# COPD Prediction Project
 This is a guided Project on the Predicting Chronic Obstructive Pulmonary Disease (COPD) in Nepal.
 
 ## Course and Guidance
